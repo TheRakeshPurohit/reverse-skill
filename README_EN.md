@@ -189,16 +189,7 @@ Platform-specific docs:
 
 ## Sponsors
 
-Support ongoing maintenance, or get labeled brand placement in front of security engineers.
-
-**Tiers:** [docs/SPONSORSHIP.md](docs/SPONSORSHIP.md)  
-**Email:** [24781737@qq.com](mailto:24781737@qq.com)
-
-### Current sponsors
-
-<p align="center">
-  <em>Be the first sponsor — <a href="mailto:24781737@qq.com?subject=%5BSponsorship%5D%20reverse-skill">email us</a></em>
-</p>
+For sponsorship or business inquiries: [24781737@qq.com](mailto:24781737@qq.com)
 
 <p align="right">(<a href="#sponsors">back to top</a>)</p>
 

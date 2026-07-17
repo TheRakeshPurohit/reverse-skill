@@ -191,17 +191,7 @@ git clone https://github.com/zhaoxuya520/reverse-skill.git
 
 ## 赞助
 
-支持 reverse-skill 的持续维护，或在 README 获得面向安全工程师的品牌露出。
-
-**详情与档位：** [docs/SPONSORSHIP.md](docs/SPONSORSHIP.md)  
-**合作邮箱：** [24781737@qq.com](mailto:24781737@qq.com)
-
-### Sponsors
-
-<!-- 赞助 logo 放这里，高度建议 40px；务必保留 Sponsored 语义 -->
-<p align="center">
-  <em>Be the first sponsor — <a href="mailto:24781737@qq.com?subject=%5BSponsorship%5D%20reverse-skill">email us</a></em>
-</p>
+商务 / 赞助合作请邮件联系：[24781737@qq.com](mailto:24781737@qq.com)
 
 <p align="right">(<a href="#赞助">返回顶部</a>)</p>
 
@@ -250,6 +240,6 @@ git clone https://github.com/zhaoxuya520/reverse-skill.git
 
 ## 联系方式
 
-- **邮箱**：[24781737@qq.com](mailto:24781737@qq.com)（含 [赞助合作](docs/SPONSORSHIP.md)）
+- **邮箱**：[24781737@qq.com](mailto:24781737@qq.com)
 - **Telegram**：[t.me/AI_And_Security](https://t.me/AI_And_Security)
 - **X (Twitter)**：[@apivixtls](https://x.com/apivixtls)
